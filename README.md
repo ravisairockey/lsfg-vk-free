@@ -77,7 +77,6 @@ Here's a basic visual SVG representation of the process pipeline:
 
 ![LSFG-VK Installation Workflow](./workflow.svg)
 
-You can render this using any markdown SVG plugin or by embedding it into your GitHub Pages.
 
 ---
 
