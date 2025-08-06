@@ -115,6 +115,8 @@ You can render this using any markdown SVG plugin or by embedding it into your G
 
 ## 📜 License & Credits
 
+- 🔗 You can also install it directly via Steam:
+- 👉 [Lossless Scaling on Steam](https://store.steampowered.com/app/993090/Lossless_Scaling/)
 - 📂 Project: [LSFG-VK GitHub](https://github.com/lossless-scaling/lsfg-vk)
 - 🤝 Community: Arch Wiki, CachyOS Users
 - 🧑‍💻 Author: You
