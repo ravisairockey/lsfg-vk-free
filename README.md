@@ -76,26 +76,32 @@ Refer to the above screenshot to match your settings.
 Here's a basic visual SVG representation of the process pipeline:
 
 ```svg
-<svg width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-  <rect x="20" y="40" width="150" height="50" fill="#4CAF50" rx="10"/>
-  <text x="95" y="70" font-size="14" text-anchor="middle" fill="white">Install Paru</text>
-  
-  <line x1="170" y1="65" x2="200" y2="65" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
-  
-  <rect x="200" y="40" width="150" height="50" fill="#2196F3" rx="10"/>
-  <text x="275" y="70" font-size="14" text-anchor="middle" fill="white">Install LSFG-VK</text>
-  
-  <line x1="350" y1="65" x2="380" y2="65" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
-  
-  <rect x="380" y="40" width="180" height="50" fill="#FF9800" rx="10"/>
-  <text x="470" y="70" font-size="14" text-anchor="middle" fill="white">Open Config GUI</text>
-
+<svg width="600" height="150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="LSFG-VK installation workflow">
   <defs>
     <marker id="arrow" markerWidth="10" markerHeight="10" refX="10" refY="3" orient="auto" markerUnits="strokeWidth">
       <path d="M0,0 L0,6 L9,3 z" fill="black" />
     </marker>
   </defs>
+
+  <!-- Step 1 -->
+  <rect x="20" y="40" width="150" height="50" fill="#4CAF50" rx="10" />
+  <text x="95" y="70" font-size="14" text-anchor="middle" fill="white" font-family="sans-serif" font-weight="600">Install Paru</text>
+
+  <!-- Arrow 1 -->
+  <line x1="170" y1="65" x2="200" y2="65" stroke="black" stroke-width="2" marker-end="url(#arrow)" />
+
+  <!-- Step 2 -->
+  <rect x="200" y="40" width="150" height="50" fill="#2196F3" rx="10" />
+  <text x="275" y="70" font-size="14" text-anchor="middle" fill="white" font-family="sans-serif" font-weight="600">Install LSFG-VK</text>
+
+  <!-- Arrow 2 -->
+  <line x1="350" y1="65" x2="380" y2="65" stroke="black" stroke-width="2" marker-end="url(#arrow)" />
+
+  <!-- Step 3 -->
+  <rect x="380" y="40" width="180" height="50" fill="#FF9800" rx="10" />
+  <text x="470" y="70" font-size="14" text-anchor="middle" fill="white" font-family="sans-serif" font-weight="600">Open Config GUI</text>
 </svg>
+
 ```
 
 You can render this using any markdown SVG plugin or by embedding it into your GitHub Pages.
