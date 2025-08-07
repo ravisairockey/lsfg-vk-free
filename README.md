@@ -60,7 +60,7 @@ sudo make install
 Once installed, open the LSFG-VK configuration window:
 
 ```bash
-lsfg-vk --config
+lsfg-vk-ui
 ```
 
 This will open the GUI to customize scaling settings.
