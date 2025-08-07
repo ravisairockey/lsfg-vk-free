@@ -40,7 +40,7 @@ If you don't have `paru`, install it with:
 sudo pacman -S paru
 ```
 
-### 📥 Step 2: Clone and Install LSFG-VK
+### 📥 Step 2: Clone and Install LSFG-VK (if step one failed not recomended)
 
 Clone the `lsfg-vk` repo from GitHub and compile it:
 
