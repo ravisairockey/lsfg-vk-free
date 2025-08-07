@@ -95,7 +95,7 @@ Here's a basic visual SVG representation of the process pipeline:
 
 - 🔗 You can also install it directly via Steam:
 - 👉 [Lossless Scaling on Steam](https://store.steampowered.com/app/993090/Lossless_Scaling/)
-- 📂 Project: [LSFG-VK GitHub](https://github.com/lossless-scaling/lsfg-vk)
+- 📂 Project: [LSFG-VK GitHub]([https://github.com/lossless-scaling/lsfg-vk](https://github.com/PancakeTAS/lsfg-vk))
 - 🤝 Community: Arch Wiki, CachyOS Users
 - 🧑‍💻 Author: RSV
 
