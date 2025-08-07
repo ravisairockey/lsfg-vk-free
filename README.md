@@ -45,7 +45,7 @@ sudo pacman -S paru
 Clone the `lsfg-vk` repo from GitHub and compile it:
 
 ```bash
-git clone https://github.com/lossless-scaling/lsfg-vk.git
+git clone https://github.com/PancakeTAS/lsfg-vk.git --layer1
 cd lsfg-vk
 make
 sudo make install
