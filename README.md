@@ -122,5 +122,5 @@ mv ~/Downloads/Lossless\ Scaling ~/.local/share/Steam/steamapps/common/
 > 📝 Make sure the folder is named exactly `Lossless Scaling`.
 
 After placing it:
-- You can configure it as a non-Steam game or link it with launch options.
-- Great for Proton games or native titles requiring pixel-perfect scaling.
+- You dont need to configure it as a non-Steam game or link it with launch options.
+- Great for Proton games or native titles requiring pixel-perfect scaling. works with bottles aswell .
